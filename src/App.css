@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: "Arial", sans-serif;
+  background: rgb(106, 120, 222);
+}
+
+.app {
+  padding: 40px;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 24px;
+}
+
+.card-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
